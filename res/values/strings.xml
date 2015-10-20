@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlashLight</string>
+    <string name="switch_open">Open Light</string>
+    <string name="switch_close">Close Light</string>
+    <string name="error_not_support">Sorry! Your telephone can\'t open flash lamp.</string>
+
+</resources>

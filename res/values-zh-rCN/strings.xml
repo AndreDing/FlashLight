@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">悬浮手电</string>
+    <string name="switch_open">打开</string>
+    <string name="switch_close">关闭</string>
+    <string name="error_not_support">抱歉！您的手机不支持。</string>
+
+</resources>
